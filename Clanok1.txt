@@ -1,11 +1,11 @@
 Autor: Samuel Harčár
 Nazov: O nás
 Datum: 12.5.2021
-
+----
 Pravidelne prinášame aktuálne novinky, 
 videá a podrobné recenzie populárnych zariadení.
 Staň sa aj ty našim fanúšikom a dostávaj informácie unikátnym spôsobom!
-
+----
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan nibh ut scelerisque congue. 
 Duis euismod scelerisque ligula, id mattis tellus rhoncus vitae. Donec urna tortor, bibendum a risus ut, rutrum molestie enim. 
 Suspendisse in ligula ut magna finibus imperdiet vel eget ex. Cras tincidunt nisi et quam commodo eleifend.
