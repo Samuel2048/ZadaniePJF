@@ -6,6 +6,6 @@ Sme jedinečný web vytvorený mladými a talentovanými fanúšikmi najnovšíc
 Zaoberáme sa novinkami z progresívneho priemyslu čínskych zariadení a svetových technológií.
 Sme najrýchlejšie rastúca technologická web stránka na Slovensku so stabilnou základňou čitateľov.
 ----
-Nam sit amet orci sed dolor lacinia auctor a tincidunt risus.
-Nam congue nisi in ex auctor ultrices. In hac habitasse platea dictumst.
-Quisque at nisl quis felis lobortis dignissim. Quisque malesuada ipsum a ultricies pellentesque.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan nibh ut scelerisque congue. 
+Duis euismod scelerisque ligula, id mattis tellus rhoncus vitae. Donec urna tortor, bibendum a risus ut, rutrum molestie enim. 
+Suspendisse in ligula ut magna finibus imperdiet vel eget ex. Cras tincidunt nisi et quam commodo eleifend.
