@@ -9,3 +9,7 @@ Sme najrýchlejšie rastúca technologická web stránka na Slovensku so stabiln
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan nibh ut scelerisque congue. 
 Duis euismod scelerisque ligula, id mattis tellus rhoncus vitae. Donec urna tortor, bibendum a risus ut, rutrum molestie enim. 
 Suspendisse in ligula ut magna finibus imperdiet vel eget ex. Cras tincidunt nisi et quam commodo eleifend.
+----
+Aliquam convallis porttitor velit, quis varius risus fringilla non.
+Aliquam sed ipsum aliquet, ullamcorper nibh ac, tempor mauris.
+Nullam id finibus enim, eu malesuada eros.
